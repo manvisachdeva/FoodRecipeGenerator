@@ -1,2 +1,2 @@
-# FoodRecipeGenerator
- This project uses computer vision to detect ingredients via webcam and generates recipe suggestions based on the detected items. It combines TensorFlow for object detection, OpenCV for image capture, and the Spoonacular API for recipe generation.
+# AI-Powered Recipe Generator with Ingredient Detection
+This project utilizes computer vision to capture and identify common ingredients using a pre-trained object detection model. The identified ingredients are then sent to the Spoonacular API to generate personalized recipe suggestions. The system integrates TensorFlow for object detection, OpenCV for capturing images via webcam, and uses an external API for retrieving recipe data based on detected ingredients, simplifying meal planning in real-time.
